@@ -21,21 +21,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateMyWeightInSolarSys
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelingToTheSunWithSoundSpeed", "TravelingToTheSunWithSoundSpeed\TravelingToTheSunWithSoundSpeed.csproj", "{0A228A62-E7A1-4DE3-A7A8-A9B9257145C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{D1B5BA17-B97B-466D-B1BD-6236C9EA22B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{D1B5BA17-B97B-466D-B1BD-6236C9EA22B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketLuckyNumber", "BusTicketLuckyNumber\BusTicketLuckyNumber.csproj", "{35541949-7B1E-4F58-BC13-7B497448B1D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusTicketLuckyNumber", "BusTicketLuckyNumber\BusTicketLuckyNumber.csproj", "{35541949-7B1E-4F58-BC13-7B497448B1D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{E1B3D99A-081E-4A7D-994A-3769DBB1EA78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{E1B3D99A-081E-4A7D-994A-3769DBB1EA78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSomeIntegers", "WorkingWithSomeIntegers\WorkingWithSomeIntegers.csproj", "{D0613985-9ACA-4700-A11F-3F354D704CC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithSomeIntegers", "WorkingWithSomeIntegers\WorkingWithSomeIntegers.csproj", "{D0613985-9ACA-4700-A11F-3F354D704CC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSomeLetters", "WorkingWithSomeLetters\WorkingWithSomeLetters.csproj", "{CB63FD77-7FB3-4322-842D-C7414B3F7BC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithSomeLetters", "WorkingWithSomeLetters\WorkingWithSomeLetters.csproj", "{CB63FD77-7FB3-4322-842D-C7414B3F7BC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMax", "GetMax\GetMax.csproj", "{AB307806-7B8E-4270-8003-0BE4FDBFABC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetMax", "GetMax\GetMax.csproj", "{AB307806-7B8E-4270-8003-0BE4FDBFABC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryCalculator", "GeometryCalculator\GeometryCalculator.csproj", "{1FE5479F-2BB7-4D65-AA62-51C5CBD5D8A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryCalculator", "GeometryCalculator\GeometryCalculator.csproj", "{1FE5479F-2BB7-4D65-AA62-51C5CBD5D8A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulations", "StringManipulations\StringManipulations.csproj", "{B7D65ACD-BD27-407B-AB3D-296A9D8BCE67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulations", "StringManipulations\StringManipulations.csproj", "{B7D65ACD-BD27-407B-AB3D-296A9D8BCE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustCalculator", "JustCalculator\JustCalculator.csproj", "{F4D677D5-B653-444C-A5A0-CFAA83D59894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserWithActions", "UserWithActions\UserWithActions.csproj", "{C35B36A0-5F56-4C30-ADC3-1C858B5D0DCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{B7D65ACD-BD27-407B-AB3D-296A9D8BCE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7D65ACD-BD27-407B-AB3D-296A9D8BCE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7D65ACD-BD27-407B-AB3D-296A9D8BCE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D677D5-B653-444C-A5A0-CFAA83D59894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D677D5-B653-444C-A5A0-CFAA83D59894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D677D5-B653-444C-A5A0-CFAA83D59894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D677D5-B653-444C-A5A0-CFAA83D59894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35B36A0-5F56-4C30-ADC3-1C858B5D0DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35B36A0-5F56-4C30-ADC3-1C858B5D0DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35B36A0-5F56-4C30-ADC3-1C858B5D0DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35B36A0-5F56-4C30-ADC3-1C858B5D0DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
